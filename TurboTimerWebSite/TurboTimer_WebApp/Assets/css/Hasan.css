@@ -1,0 +1,333 @@
+﻿*, h1, h2, h3, h4, h5, h6 {
+    margin: 0px;
+    padding: 0px;
+}
+
+body {
+    /*background-color: #AFB0BF;*/
+    height: 100vh;
+    font-family: Calibri;
+    color: #1d1d1d;
+    background: rgb(58,59,64);
+    background: linear-gradient(180deg, rgba(58,59,64,1) 0%, rgba(116,117,128,1) 30%, rgba(233,235,255,1) 100%);
+}
+
+.ustMenu {
+    background-color: #3A3B40;
+    min-height: 50px;
+}
+
+.menu {
+    min-height: 80px;
+    background-color: rgba(58,59,64,1);
+    margin-bottom: 20px;
+    display: flex;
+}
+
+.container {
+    width: 1200px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.uyeOlGirisYap {
+    float: right;
+    margin-top: 15px;
+    color: white;
+    font-weight: 900;
+    text-decoration: none;
+    padding-left: 20px;
+}
+
+.logo {
+    width: 60px;
+    float: left;
+    margin-right: 20px;
+}
+
+.menu-container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.logotext {
+    float: left;
+    color: #02a9f4;
+}
+
+    .logotext small {
+        font-weight: 100;
+        font-size: 13pt;
+    }
+
+.content {
+    width: 840px;
+    float: left;
+    background-color: white;
+    min-height: 800px;
+    padding: 20px;
+}
+
+.sideBar {
+    width: 300px;
+    float: right;
+    background-color: white;
+}
+
+.makale {
+    margin-bottom: 10px;
+    padding-bottom: 10px;
+    border-bottom: 1px solid silver;
+    display: flex;
+    min-height: 270px;
+}
+
+    .makale .resim {
+        width: 400px;
+        margin-right: 30px;
+        padding: 5px;
+        border: 1px solid silver;
+        border-radius: 3px;
+        display: flex;
+        align-items: center;
+    }
+    .makale .resim a {
+        width: 100%;
+    }
+    .makale .icerik {
+        width: 100%;
+        display: flex;
+        flex-direction: column;
+    }
+
+        .makale .icerik a {
+            color: #012E40;
+            text-decoration: none;
+        }
+        .makale .icerik p {
+            font-size: 20px;
+            color: gray;
+            margin-bottom: 30px;
+        }
+            .makale .icerik a:hover {
+                color: black;
+                text-decoration: underline;
+            }
+
+            .makale .icerik a:visited {
+            }
+        /*.makale .icerik a:visited:hover {
+                font-size:50pt;
+            }*/
+
+        .makale .icerik .bilgi {
+            padding: 7px 5px;
+            border-top: 3px solid rgba(58,59,64,1);
+            border-bottom: 1px solid rgba(58,59,64,1);
+            margin: 7px 0px 15px 0px;
+            color: dimgray;
+            display: flex;
+        }
+
+.sideBar a img {
+    width: 280px;
+    margin: 10px;
+}
+
+.loginPanel {
+    width: 800px;
+    padding: 10px;
+    -webkit-box-shadow: -1px 4px 10px 1px rgba(0,0,0,0.36);
+    -moz-box-shadow: -1px 4px 10px 1px rgba(0,0,0,0.36);
+    box-shadow: -1px 4px 10px 1px rgba(0,0,0,0.36);
+    margin: 0px auto;
+    color: #012E40;
+    ;
+    rbo-hakkinda .jpg);
+    .jpr/turbo-hakkinda.jpg);
+    pg );
+    bo-hakkinda .jpg);
+}
+
+.left {
+    width: 500px;
+    float: left;
+    min-height: 300px;
+    background-image: url(idth: 260px;
+    float: right;
+    );
+    background-position: center;
+    background-size: 500px;
+    text-align: center;
+}
+
+.right {
+    width: 260px;
+    float: right;
+    min-height: 200px;
+    padding: 20px;
+}
+
+.row {
+    margin-bottom: 10px;
+}
+
+.formInput {
+    border: 1px solid silver;
+    padding: 10px;
+    border-radius: 5px;
+    width: 250px;
+}
+
+.formButton {
+    background-color: #012E40;
+    display: block;
+    padding: 10px;
+    border-radius: 5px;
+    color: white;
+    text-align: center;
+    text-decoration: none;
+}
+
+.registerPanel {
+    width: 800px;
+    padding: 10px;
+    -webkit-box-shadow: -1px 4px 10px 1px rgba(0,0,0,0.36);
+    -moz-box-shadow: -1px 4px 10px 1px rgba(0,0,0,0.36);
+    box-shadow: -1px 4px 10px 1px rgba(0,0,0,0.36);
+    margin: 0px auto;
+    color: #012E40;
+    text-align: center;
+}
+
+    .registerPanel .formInput {
+        border: 1px solid silver;
+        padding: 10px;
+        border-radius: 5px;
+        width: 600px;
+    }
+
+.formTable {
+    width: 100%
+}
+
+    .formTable tr td {
+        padding: 10px;
+        text-align: right;
+    }
+
+.subtitle {
+    width: 500px;
+    margin: 20px auto;
+    font-size: 14pt;
+    color: darkslategray;
+}
+
+.pnl_basarili {
+    padding: 20px;
+    background-color: #45948f;
+    border: 1px solid #012E40;
+    color: white;
+    border-radius: 5px;
+    font-weight: 900;
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.pnl_basarisiz {
+    padding: 20px;
+    background-color: #be7272;
+    border: 1px solid #3c0202;
+    color: white;
+    border-radius: 5px;
+    font-weight: 900;
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.yorumpanel {
+    margin-top: 50px;
+}
+
+.yorumPanelBaslik {
+    padding: 7px 20px;
+    border: 1px solid silver;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+    background-color: #012E40;
+    color: white;
+}
+
+.yorumPanelIcerik {
+    padding: 7px 20px;
+    border: 1px solid silver;
+    border-top: none;
+    border-bottom-left-radius: 5px;
+    border-bottom-right-radius: 5px;
+}
+
+.yorum {
+    background-color: #f5f5f5;
+    padding: 10px;
+    margin-bottom: 10px;
+    border-radius: 5px;
+}
+
+.mg-t-30 {
+    margin-top: 30px;
+}
+
+.logo-section {
+    text-align: center;
+    display: flex;
+    align-items: center;
+}
+
+.content-title {
+    font-size: 20px;
+}
+
+.content-info {
+    display: flex;
+    align-items: center;
+    margin-right: 20px;
+}
+
+    .content-info img {
+        width: 16px;
+        margin-right: 5px;
+    }
+
+    .content-info:last-child img {
+        width: 20px;
+    }
+.content-info label{
+    color: black;
+}
+
+.makale-button {
+    color: white;
+    width: 200px;
+    height: 40px;
+    font-size: 20px;
+    background-color: #02a9f4;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-weight: bold;
+    border-radius: 10px;
+    transition: all 1s ease;
+}
+
+.makale-button:hover {
+    background-color: lightblue;
+    width: 300px;
+}
+.makaledetay img{
+    width: 100%;
+}
+
+.formTable tr td a {
+
+}

@@ -1,0 +1,12 @@
+C:\Users\kmtur\Desktop\OyunHavasiWebSite-main\OyunHavasiWebSite-main\DataAccessLayer\bin\Release\DataAccessLayer.dll
+C:\Users\kmtur\Desktop\OyunHavasiWebSite-main\OyunHavasiWebSite-main\DataAccessLayer\bin\Release\DataAccessLayer.pdb
+C:\Users\kmtur\Desktop\OyunHavasiWebSite-main\OyunHavasiWebSite-main\DataAccessLayer\obj\Release\DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\kmtur\Desktop\OyunHavasiWebSite-main\OyunHavasiWebSite-main\DataAccessLayer\obj\Release\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\kmtur\Desktop\OyunHavasiWebSite-main\OyunHavasiWebSite-main\DataAccessLayer\obj\Release\DataAccessLayer.dll
+C:\Users\kmtur\Desktop\OyunHavasiWebSite-main\OyunHavasiWebSite-main\DataAccessLayer\obj\Release\DataAccessLayer.pdb
+C:\Users\kmtur\Desktop\TurboTimerWebSite\TurboTimerWebSite\DataAccessLayer\bin\Release\DataAccessLayer.dll
+C:\Users\kmtur\Desktop\TurboTimerWebSite\TurboTimerWebSite\DataAccessLayer\bin\Release\DataAccessLayer.pdb
+C:\Users\kmtur\Desktop\TurboTimerWebSite\TurboTimerWebSite\DataAccessLayer\obj\Release\DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\kmtur\Desktop\TurboTimerWebSite\TurboTimerWebSite\DataAccessLayer\obj\Release\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\kmtur\Desktop\TurboTimerWebSite\TurboTimerWebSite\DataAccessLayer\obj\Release\DataAccessLayer.dll
+C:\Users\kmtur\Desktop\TurboTimerWebSite\TurboTimerWebSite\DataAccessLayer\obj\Release\DataAccessLayer.pdb
